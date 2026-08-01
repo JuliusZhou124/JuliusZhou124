@@ -4,15 +4,9 @@ Currently working on automation tools, infrastructure, and more.
 
 Interested in distributed systems, compute, and robotics!
 
-**Summer 2026 SWE intern @ [Gemini](https://www.gemini.com/)**
+I'm a Summer 2026 SWE intern @ [Gemini](https://www.gemini.com/), and used to work as part time SWE @ [Purdue CCO](https://cco.purdue.edu).
 
-**Part time SWE @ [Purdue CCO](https://cco.purdue.edu)**
-
-**ex Robotics @ FRC 649**
-
-Hackathons
-
-**Won 1st place + 4k @ ETHDenver 2026; [Project link] (https://github.com/ansonlam23/necto)**
+I also won 1st place + 4k @ ETHDenver 2026; [Project link] (https://github.com/ansonlam23/necto)
 <!--
 **JuliusZhou124/JuliusZhou124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
