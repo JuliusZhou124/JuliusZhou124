@@ -10,7 +10,7 @@ Interested in distributed systems, compute, and robotics!
 
 **ex Robotics @ FRC 649**
 
-## Hackathons
+Hackathons
 
 **Won 1st place + 4k @ ETHDenver 2026; [Project link] (https://github.com/ansonlam23/necto)**
 <!--
