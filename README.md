@@ -6,7 +6,7 @@ Interested in distributed systems, compute, and robotics!
 
 I'm a Summer 2026 SWE intern @ [Gemini](https://www.gemini.com/), and used to work as part time SWE @ [Purdue CCO](https://cco.purdue.edu).
 
-I also won 1st place + 4k @ ETHDenver 2026; [Project link](https://github.com/ansonlam23/necto)
+I also won 1st place + 4k in prices @ ETHDenver 2026; [Project link](https://github.com/ansonlam23/necto)
 <!--
 **JuliusZhou124/JuliusZhou124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
