@@ -4,7 +4,7 @@ Currently working on automation tools, infrastructure, and more.
 
 Interested in distributed systems, compute, and robotics!
 
-I was a previous SWE intern @ [Gemini](https://www.gemini.com/) in the Summer of 2026, now to work part time as a SWE to make @ [Purdue CCO](https://cco.purdue.edu).
+I currently work part time building the website and backend for the [Purdue CCO](https://cco.purdue.edu). I was a previously a SWE intern @ [Gemini](https://www.gemini.com/) in the Summer of 2026. 
 
 I also won 1st place + 4k @ ETHDenver 2026; [Project link](https://github.com/ansonlam23/necto)
 <!--
