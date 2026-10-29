@@ -9,6 +9,7 @@ I currently work part time building the website and backend for the [Purdue CCO]
 I was a previously a SWE intern @ [Gemini](https://www.gemini.com/) in the Summer 26' cohort.
 
 I also won 1st place + 4k @ ETHDenver 2026; [Project link](https://github.com/ansonlam23/necto)
+
 I also won 1st Place in the CREAO Track at Calhacks 2026; [Project link](https://devpost.com/software/anima-labs)
 <!--
 **JuliusZhou124/JuliusZhou124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
