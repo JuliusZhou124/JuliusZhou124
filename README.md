@@ -10,7 +10,7 @@ I was a previously a SWE intern @ [Gemini](https://www.gemini.com/) in the Summe
 
 I also won 1st place + 4k @ ETHDenver 2026; [Project link](https://github.com/ansonlam23/necto)
 
-I also won 1st Place in the CREAO Track at Calhacks 2026; [Project link](https://devpost.com/software/anima-labs)
+I also won 1st Place in the CREAO Track, the MLH commit fellowship + 2.5k at Calhacks 2026; [Project link](https://devpost.com/software/anima-labs)
 <!--
 **JuliusZhou124/JuliusZhou124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
